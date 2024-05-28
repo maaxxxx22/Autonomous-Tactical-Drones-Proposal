@@ -125,8 +125,8 @@ The project will utilize Convolutional Neural Networks (CNNs) for object recogni
 ## Contact Information
 For any inquiries or contributions, please contact:
 
-- **Project Lead:** [Okunta Braide
-- **GitHub:** [[GitHub Profile](https://github.com/maaxxxx22/)]
+- **Project Lead:** [Okunta Braide]
+- **GitHub:** [maaxxxx22]
 
 ---
 
